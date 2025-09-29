@@ -1,5 +1,13 @@
 # signupb
+## Screenshots
 
+### Home Screen
+![welcome](lib/screenshots/welcome.png)
+### login Screen
+![login Screen](lib/screenshots/login.png)
+
+### signup Screen
+![signup Screen](lib/screenshots/signup.png)
 A new Flutter project.
 
 ## Getting Started
